@@ -1,10 +1,7 @@
-function App() {
+import React from 'react';
 
-  return (
-    <div className="App">
-      Learning firebase
-    </div>
-  )
+function App() {
+  return <div>Learning firebase</div>;
 }
 
-export default App
+export default App;
